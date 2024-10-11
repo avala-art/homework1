@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\bin\Debug\homework2.exe
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\bin\Debug\homework2.pdb
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\obj\Debug\homework2.exe
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homework2\obj\Debug\homework2.pdb

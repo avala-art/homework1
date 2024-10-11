@@ -1,0 +1,857 @@
+Skip to main content
+Google Classroom
+Classroom
+BA Bootcamp 2024-1
+Home
+Calendar
+Enrolled
+To do
+B
+BA Bootcamp 2024-1
+Archived classes
+Settings
+Stream
+Classwork
+People
+BA Bootcamp 2024-1Stream
+BA Bootcamp 2024-1
+
+Meet
+Upcoming
+Due today
+მეორე დავალება C#
+Due Sunday
+პირველი დავალება C#
+Assignment
+shako turashvili posted a new assignment: მეორე დავალება C#
+Due Today
+Posted Yesterday (Edited Yesterday)
+Assigned
+1) შექმენით კონსოლური აპლიკაცია, რომელიც შეასრულებს მარტივ არითმეტიკულ ოპერაციებს რიცხვებზე.
+* გამოაცხადეთ ორი ცვლადი
+* შეასრულეთ მიმატების, გამოკლების, გამრავლების, გაყოფისა და ნაშთის ოპერაციები.
+* შედეგები დაბეჭდეთ კონსოლში
+
+2) წარმოაჩინეთ float, double და decimal შორის სიზუსტის სხვაობა:
+* შექმენით სამი ცვლადი float, double და decimal ტიპებით. თითოეულს მიანიჭეთ მნიშვნელობად 1.0/7.0 ზე
+* თითოეული ცვლადი გაამრავლეთ 7 ზე
+* დაბეჭდეთ თითოეული შედეგი და შეადარეთ
+
+3) გადაიყვანეთ სხვადასხვა მონაცემთა ტიპები განსხვავებულ ტიპებში
+* გამოაცხადეთ int, double, float და decimal ტიპის ცვლადები
+* მიანიჭეთ თითეულ მათგანს მნიშვნელობები
+* შეასრულეთ explicit და implicit კონვერტაციებით ამ ტიპებს შორის (სადაც რომელია შესაძლებელი)
+
+4) შექმენით კონსოლური აპლიკაცია, როკმელიც ორ ცვლადს მნიშვნელობას გაუცვლის.
+მაგ.:
+before:
+int x = 5;
+int b = 10;
+
+after:
+int x = 10;
+int b - 5;
+
+5) შექმენით კონსოლური აპლიკაცია, რომელიც დაითვლის BMI (Body Mass Index) მნიშვნელობას და ამის შესაბამისად
+დაბეჭდავს რჩევებს.
+* შემოატანინეთ მომხმარებელს კონსოლიდან ინფორმაცია - სიმაღლე და წონა (https://www.geeksforgeeks.org/console-readline-method-in-c-sharp/)
+* დაითვალეთ BMI https://en.wikipedia.org/wiki/Body_mass_index
+* მიღებული შედეგების მიხედვით დაბეჭდეთ სხვადასხვა რჩევები
+
+პასუხები გაუშვით GitHub ზე და ლინკები ატვირთეთ აქ. შეგიძლიათ ყველა დავალება 1 კონსოლურ აპლიკაციაში შეასრულოთ და რამენაირად გამოყოთ ვიზუალურად (მაგ.: // -------------------- კომენტარით) 
+​
+
+Add class comment…
+
+Material
+Lasha Daushvili posted a new material: ლაბორატორიული #2
+Posted Yesterday
+
+EtLecture2CastIfElseLoops.7z
+Compressed Archive
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: დავალების ატვირთვის ინსტრუქცია
+Posted Yesterday
+
+დავალების ატვირთვის ინსრტუქცია.docx
+Word
+
+Add class comment…
+
+Material
+Lasha Daushvili posted a new material: გადასამეორებელი #1
+Posted 8 Oct (Edited 9 Oct)
+დასამუშავებელია შემდეგი საკითხები:
+Simple data types
+Arithmetic operators
+Boolean logical operators
+Bitwise logical operators
+Bitwise and shift operators
+Equality operators
+Comparison operators
+Unary, binary, ternary operators
+Literals
+Keywords: checked, unchecked
+double vs decimal
+Floating-point arithmetic
+De Morgan’s Laws in Software Engineering: https://betterprogramming.pub/de-morgans-laws-in-software-engineering-b08feb897f75
+Visual Studio-ს დაყენების ინსტრუქცია და დღევანდელი ლაბი იხილეთ მიბმულ ფაილებში
+
+ნებისმიერი კითხვის შემთხვევაში არ მოგერიდოთ და მომწერეთ Slack-ში <3
+
+Visual Studio-ს დაყენება.docx
+Word
+
+2s Complement.xlsx
+Excel
+
+Add class comment…
+
+Material
+Lasha Daushvili posted a new material: ლაბორატორიული #1
+Posted 8 Oct (Edited 8 Oct)
+
+EtLecture1DataTypes.7z
+Compressed Archive
+
+Add class comment…
+
+Assignment
+shako turashvili posted a new assignment: პირველი დავალება C#
+Due 13 Oct
+Posted 8 Oct
+Assigned
+1. გადაიყვანეთ შემდეგი ათობითი რიცხვები ორობითში:
+ა) 17
+ბ) 34
+გ) 255
+
+2. გადაიყვანეთ შემდეგი ორობითი რიცხვები ათობითში:
+ა)10101
+ბ)110011
+გ)10000000
+
+3. განმარტეთ რას ნიშნავს ცვლადი C# ში, როგორ შეგვიძლია მისი გამოცხადება და ინიციალიზაცია. მოიყვანეთ რამდენიმე მაგალითი
+
+
+დავალება შეგიძლიათ ატვირთოთ თქვენს GitHub რეპოზიტორიზე. შექმენით ახალი საქაღალდე თქვენს ლოკალურად გადმოტანილ რეპოზიტირიში სახელით Task1 და მასში მოათავსეთ ტექსტური ფაილი (.txt), დააკომიტეთ და დაფუშეთ ცვლილებები GitHub ზე.
+კითხვების შემთხვევაში მომწერეთ.
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: Working tools installation guide
+Posted 8 Oct (Edited 8 Oct)
+მიყევით შემდეგი თანმიმდევრობით:
+1) Install git
+2) Install VisualStudio
+3) Setup GitHub repo (ჯერ დარეგისტრირდით github.com ზე)
+
+Install git.mp4
+Video
+
+Install VisualStudio.mp4
+Video
+
+Setup GiHub repo.mp4
+Video
+
+.gitignore
+Text
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: authentication and Postman practical
+Posted 26 Sept
+მასალაშ ავტვირთე:
+1. პრეზენტაცია
+2. ქვიზი ცოდნის შესამოწმებლად.
+
+authentication.pptx
+PowerPoint
+
+hehe 😈
+https://forms.gle/PkeHFjHcRxQGQda26
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: SOAP
+Posted 24 Sept
+მასალებში ნახავთ ფაილებსა და ლინკებს:
+1. პრეზენტაცია
+2. ლექციაზე განხილული ინფორმაცია (კონსპექტი)
+3. სხვა რესურსები SOAP ის შესახებ
+
+soap.pptx
+PowerPoint
+
+SOAP.docx
+Word
+
+SOAP - Wikipedia
+https://en.wikipedia.org/wiki/SOAP
+
+APIs 101: What Is SOAP (Simple Object Access Protocol)? | Nordic APIs |
+https://nordicapis.com/apis-101-what-is-soap-simple-object-access-protocol/
+
+SOAP vs REST: Understanding the Differences
+https://smartbear.com/blog/soap-vs-rest-whats-the-difference/
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: OpenAPI
+Posted 21 Sept (Edited 21 Sept)
+links:
+
+1. OpenAPI basics
+2. OpenAPI syntax დეტალებში
+
+openapi.pptx
+PowerPoint
+
+Getting Started | OpenAPI Documentation
+https://learn.openapis.org/
+
+The OpenAPI Specification Explained | OpenAPI Documentation
+https://learn.openapis.org/specification/
+
+Add class comment…
+
+Material
+Edutech Academy posted a new material: BA Syllabus
+Posted 20 Sept
+
+BA Credo 2 Syllabus
+Google Sheets
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: REST APIs
+Posted 19 Sept
+რესურსებში ნახავთ შემდეგ ფაილებსა და ლინკებს:
+1. პრეზენტაცია
+2. რა არის REST
+3. REST არქიტექტურული მიდგომები
+4. REST naming conventions (რესურსების სახელის დარექმევის წესები)
+5. თავად Roy Fielding ის დისერტაცია REST ზე
+
+rest.pptx
+PowerPoint
+
+Just a moment...
+https://restfulapi.net/
+
+REST Architectural Constraints
+https://restfulapi.net/rest-architectural-constraints/
+
+REST API URI Naming Conventions and Best Practices
+https://restfulapi.net/resource-naming/
+
+Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)
+https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
+Add class comment…
+
+Material
+shako turashvili posted a new material: WebServices 101
+Posted 17 Sept
+http documentation:
+https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+Web services 101.pptx
+PowerPoint
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: Quiz 14.09.24
+Due 14 Sept, 23:00
+Posted 14 Sept
+Marked
+ტესტი შედგენილია Babok-ზე, პრეზენტაციებზე, ლექციებზე და დავალებებზე დაყრდნობით, ასევე ზოგადად პროექტის მიმდინარეობის პროცესებიდან შეგხვდებათ რამდენიმე კითხვა. 
+აბა გისურვებ წარმატებას :)
+
+Blank Quiz
+Google Forms
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #9
+Due 20 Sept, 19:00
+Posted 3 Aug (Edited 20 Sept)
+Marked
+დავალება:
+Do a research and create a confluence page   about oAuth, its purpose, origination, and detailed explanation how it works
+Draw a sequence diagram for online instalments form merchant’s webpage
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #8
+Due 20 Sept, 19:00
+Posted 3 Aug (Edited 20 Sept)
+Marked
+Jira work:Create an epic in Jira - UML Diagrams and assign to yourself.Create a separate tickets for UML artefacts done so far AND upload corresponding artefact (diagram) - 1)USe case diagram - Kindergarden, 2)Class Diagram - kidergarden (assign on yourself)In the same manner create new tickets for Use case Diagram for Parking lot solution, Class Diagram for Parking lot solution (assign on yourself)Create Use Case and Class Diagrams for Parking lot solution (and upload them in corresponding jira tickets that you were asked to to create in section 1.c above)
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #7
+Due 20 Sept, 19:00
+Posted 3 Aug (Edited 20 Sept)
+Marked
+ატვირთულია კლასრუმში პრეზენტაცია (პრეზენტაციაშივე არის მოცემული ლინკები ინფორმაციას სადაც უნდა გაცნოთ. (რა თქმა უნდა რომ არ ხართ შეზღუდულები დამატებითი მასალების, თულების და ჯიპიტი/გემინების დახმარებით ცოდნის გაღრმავებაში. სულ 3 მთავარი საკითხია:4+1 frameworkClass DiagramsUse Case Diagrams
+დავალება:
+Draw use  case and class diagrams for Kidnergarden management solution (ეს არის ინდივიდუალური დავალება და ყველამ უნდა გავაკეთოთ ინდივიდუალურად)
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #6
+Due 20 Sept, 19:00
+Posted 3 Aug (Edited 20 Sept)
+Marked
+ჩათვალე რომ დაგვევალა აეროპორტში მგზავრთა ნაკადების მართვისათვის ბიზნეს პროცესების აღწერა. გააკეთეთ დიაგრამა აეროპორტში მგზავრების პროცესების:  დასაწყისი: აეროპორტის შენობაში შესვლა, დასასრული: მგზავრი დაჯდა თვითმფრინავში თავის ადგილზე.  გთხოვთ რომ გაანალიზოთ აქტორები, სისტემები  და პროცესები რომელთა ერთობლიობაც უზრუნველყოფს იმ ამოცანის შესრულებას რომ მგზავრი დროულად, სწორად, უსაფრთხოდ და კომფორტულად მივიდეს თავის კუთვნილ ადგილზე.  ბონუს ქულების განაწილება:ბონუს ქულა მათთვის ვისაც ექნება პროცესები ასევე სიტყვიერად აღწერილი და შესაბამის დიაგრამ(ებ)თან ერთადდეტალიზაცია - ეცადეთ მაქსიმალურად დეტალურად გაიაზრეთ , მოიძიოთ მოიფიქროთ და გადმოსცეთ პროცესები და სისტემები რომელიც მონაწილეობს ამ ამოცანის შესრულებისას.
+პ.ს. მეტი დეტალიზაცია, მეტი ნიუანსის გათვალისწინება და სწორად გადმოცემა  - ესაა ჩემი მოწოდება.  იმედი მაქვს რომ მოგწონებათ ამ ამოცანაზე მუშაობა და საინტერესო სიახლეებსაც აღმოაჩენთ, იმიტომ რომ ის რაც ერთი შეხედვით "ჩვეულებრივი" ამოცანაა შეიძლება ძალიან საინტერესო შინაარსს ატარებდეს თავისი მიზეზით და მიზნით.
+
+Add class comment…
+
+Material
+Max Pertaia posted a new material: UML - 4+1, Class Diagrams and Use case Diagrams
+Posted 27 Jul
+
+UML - Class and Usecase diagrams in a scope of 4+1 view.pptx (1).pdf
+PDF
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: Quiz #1
+Due 26 Jul
+Posted 27 Jul (Edited 4 Aug)
+Marked
+ტესტი შედგენილია პრეზენტაციების, შეხვედრებისა და Babok ის მასალებზე დაყრდნობით. ტესტში შეგხვდებათ როგორც ერთი, ასევე ორი სწორი პასუხი. 20 ტესტის შესრულებისთვის გაქვთ 20 წუთი და შეფასების მაქსიმალური ქულა არის 20.
+გისურვებთ წარმატებას!
+
+Quiz #1
+Google Forms
+
+Add class comment…
+
+Material
+Max Pertaia posted a new material: C4
+Posted 26 Jul
+
+BPMN & C4 (part 2).pptx.pdf
+PDF
+
+Add class comment…
+
+Material
+Max Pertaia posted a new material: Project Management & Risks
+Posted 26 Jul
+
+risks.pptx (2).pdf
+PDF
+
+Project Management.pptx (1).pdf
+PDF
+
+Add class comment…
+
+Material
+Edutech Academy posted a new material: BA Credo Videos
+Posted 25 Jul (Edited 25 Jul)
+აქ შეგიძლიათ ნახოთ სამშაბათის ჩაწერილი ვიდეოები
+
+Meet Recordings
+Google Drive folder
+
+Add class comment…
+
+Material
+Max Pertaia posted a new material: UML & ERD
+Posted 23 Jul
+
+UML and ERD.pptx.pdf
+PDF
+
+Add class comment…
+
+Material
+Max Pertaia posted a new material: BPMN 2.0
+Posted 20 Jul
+
+Lesson 16 BPMN & C4 (part 1).pptx (1).pdf
+PDF
+
+Add class comment…
+
+Material
+Giorgi Kontselidze posted a new material: წიგნების და მასალების ლინკი
+Posted 19 Jul
+
+Books
+Google Drive folder
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #4
+Due 26 Jul
+Posted 19 Jul
+Marked
+1. do a research and about what messaging queue is, what it does and which tools are available.
+2. Acceptance / Evaluation criteria:  
+a)   Must: define its essence, context and usage patterns: what it is, why it exists, how  does it work.
+b) Optional/Bonus: explain in detail - different approaches, solutions and their pros and cons, use cases, tradeoffs, when to use which one.
+1. Create a confluence page and write your findings about #1 in the page
+2. Groups should assign a Scrum Master who will :
+a) Create a scrum project in Jira
+b) Invite other team members in the Scrum team
+c) Create and assign a new tickets for each team member
+d) Assignee should put a confluence link (done within task#2) in the ticket and change ticket status into done
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #5
+Due 30 Jul
+Posted 19 Jul (Edited 30 Jul)
+Marked
+Create a second version of your document about message queue on confluence; 
+Create a mock-up of user login / authentication page, describe UI for Frontend developer.  (p.s. შეგიძლიათ გამოიყენოთ balsamic ან canvas ან ნებისმიერი თქვენთვის მოსახერხებელი საშუალება. hint: შეგიძლიათ რომელიმე არსებულის სკრინებიც ჩააგდოთ that is ok, but not suggested რადგანაც ჯობია თქვენ თვითონ გააკეთოთ)Read User stories with examples and a template
+ჩენელის ლინკი: https://babootcampcredo2.slack.com/archives/C07CDU69154
+
+Add class comment…
+
+Completed Assignment
+Giorgi Kontselidze posted a new assignment: დავალება #3
+Due 26 Jul
+Posted 19 Jul
+Marked
+დაამატეთ ც4 ნოთეიშენიდან როგორც მინიმუმ ც1  და ც2 დონის დიაგრამები (კონტექსტი და კონტეინერი) მაინც.
+
+დავალება იქნება 10 ქულიანი.
+
+Add class comment…
+
+
+Announcement: '18.07.2024 შეხვედრის პრეზენტაცია'
+Max Pertaia
+Created 18 Jul18 Jul
+18.07.2024 შეხვედრის პრეზენტაცია
+
+Meeting 8 - Business Process Analysis, Practical Aspects of .pptx.pdf
+PDF
+
+Add class comment…
+
+## Ignore Visual Studio temporary files, build results, and
+## files generated by popular Visual Studio add-ons.
+##
+## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Trace Files
+*.e2e
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet is a free, cross platform Code Coverage Tool
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+*.vbw
+
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+# Visual Studio 6 workspace and project file (working project files containing files to include in project)
+*.dsw
+*.dsp
+
+# Visual Studio 6 technical files
+*.ncb
+*.aps
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush personal settings
+.cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio History (VSHistory) files
+.vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows Installer files from build outputs
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# JetBrains Rider
+*.sln.iml
+.gitignore
+Displaying .gitignore.
