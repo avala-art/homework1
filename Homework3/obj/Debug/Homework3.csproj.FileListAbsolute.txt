@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\bin\Debug\Homework3.exe
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\bin\Debug\Homework3.pdb
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\obj\Debug\Homework3.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\obj\Debug\Homework3.exe
+C:\Users\user\OneDrive\Desktop\CREDO\C# homeworks\homeworks\Homework3\obj\Debug\Homework3.pdb
