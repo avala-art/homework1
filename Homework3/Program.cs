@@ -48,6 +48,7 @@ namespace Homework3
             for (int i = 0; i < 10; i++)
             {
                 table[i] = (i+1) * number;
+
             }
 
             Console.WriteLine("gamravlebis cxrili ricxvi " + number +  "istvis");
